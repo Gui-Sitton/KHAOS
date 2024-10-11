@@ -18,6 +18,7 @@ A performance do modelo será avaliada com base na **acurácia** — a porcentag
 ### Conteúdo do Projeto
 Este projeto contém os seguintes componentes:
 
-1. **Notebook de análise exploratória (EDA)**: Investigação dos dados dos passageiros e visualização de padrões.
-2. **Notebook de treinamento do modelo**: Criação, ajuste e validação de diferentes modelos de Machine Learning para prever a sobrevivência.
-3. **Scripts de pré-processamento**: Funções auxiliares para tratamento de dados, como limpeza e engenharia de variáveis.
+1. **Notebook de pré-processamento e feature engineering**: Limpeza dos dados, pré-processamento e novas colunas.
+2. **Notebook de análise exploratória (EDA)**: Investigação dos dados dos passageiros e visualização de padrões.
+3. **Notebook de treinamento do modelo**: Criação, ajuste e validação de diferentes modelos de Machine Learning para prever a sobrevivência.
+4. **Scripts de pré-processamento**: Funções auxiliares para tratamento de dados, como limpeza e engenharia de variáveis.
