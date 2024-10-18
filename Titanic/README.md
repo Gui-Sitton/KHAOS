@@ -23,6 +23,7 @@ Este projeto contém os seguintes componentes:
 3. **Notebook de treinamento do modelo**: Criação, ajuste e validação de diferentes modelos de Machine Learning para prever a sobrevivência.
 4. **Scripts de pré-processamento**: Funções auxiliares para tratamento de dados, como limpeza e engenharia de variáveis.
 
+
 Link para o kaggle: https://www.kaggle.com/competitions/titanic
 ---
 
@@ -51,5 +52,5 @@ This project includes the following components:
 3. **Model training notebook**: Creation, tuning, and validation of different Machine Learning models to predict survival.
 4. **Pre-processing scripts**: Auxiliary functions for data handling, such as cleaning and feature engineering.
 
-
 Link to the Kaggle competition: https://www.kaggle.com/competitions/titanic
+---
