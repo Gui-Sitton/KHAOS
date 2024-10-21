@@ -52,7 +52,7 @@ def engineer_features (df):
     df['family_size'] = df['sibsp'] + df['parch'] + 1
 
     df['fare_group'] = pd.cut(df['fare'], 
-                          bins=[0, 7.9104, 14.4542, 31.0000, df['fare'].max()], 
+                          bins=[0.0, 7.9104, 14.4542, 31.0000, df['fare'].max()], 
                           labels=['Low Fare', 'Medium-Low Fare', 'Medium-High Fare', 'High Fare'])
     
 
