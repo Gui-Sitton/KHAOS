@@ -13,6 +13,10 @@ Este é o repositório dos projetos de Ciência de Dados do KHAOS.
 - **Digit Recognizer** - Identificar dígitos escritos à mão
 - **House Prices** - Técnicas avançadas de regressão para prever o preço de venda de casas
 
+  
+## Licença
+
+Este conteúdo está licenciado sob a [Creative Commons Attribution-NonCommercial 4.0 International License](https://creativecommons.org/licenses/by-nc/4.0/).
 ---
 
 # KHAOS
